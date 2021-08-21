@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+venv
+.vscode
+env
+__pycache__
+polymath_venv
+.ipynb_checkpoints
+.dockercache
