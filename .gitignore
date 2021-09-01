@@ -7,3 +7,4 @@ __pycache__
 polymath_venv
 .ipynb_checkpoints
 .dockercache
+.env

@@ -1,4 +1,6 @@
 matplotlib~=3.4.3
 numpy~=1.21.2
-windrose~=1.6.8 
-notebook~=6.4.3 
+windrose~=1.6.8
+notebook~=6.4.3
+requests~=2.26.0
+python-dotenv~=0.19.0
